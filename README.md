@@ -10,7 +10,8 @@
 |------|-------|-------------|
 | [`SSRF.pdf`](./SSRF.pdf) | Server-Side Request Forgery | Detection, exploitation, cloud attack chains & bypasses |
 | [`SQLi.pdf`](./SQLi.pdf) | SQL Injection | All types, dumping data, WAF bypass & sqlmap usage |
-| [`CSRF_Guide.pdf`](./CSRF_Guide.pdf) | Cross-Site Request Forgery | Attack examples, SameSite cookies, token bypass & POC crafting |
+| [`CSRF_Guide.pdf`](./CSRF_Guide.pdf) | Cross-Site Request Forgery | Attack examples, SameSite cookies, token bypass & POC crafting 
+| [`OpenRedirect_Guide.pdf`](./OpenRedirect_Guide.pdf) | Open Redirect | PoC examples, OAuth chaining, payload bypass tricks & bounty reporting |
 
 > ⚙️ More guides coming soon — XSS, IDOR, XXE, RCE & more.
 

@@ -12,6 +12,8 @@
 | [`SQLi.pdf`](./SQLi.pdf) | SQL Injection | All types, dumping data, WAF bypass & sqlmap usage |
 | [`CSRF_Guide.pdf`](./CSRF_Guide.pdf) | Cross-Site Request Forgery | Attack examples, SameSite cookies, token bypass & POC crafting 
 | [`OpenRedirect_Guide.pdf`](./OpenRedirect_Guide.pdf) | Open Redirect | PoC examples, OAuth chaining, payload bypass tricks & bounty reporting |
+| [`VMware_Security_Guide_EN.pdf`](./VMware_Security_Guide_EN.pdf) | VMware Security Guide | Kali Linux setup, VM isolation, WSL risks, network modes & one-click isolation script |
+
 
 > ⚙️ More guides coming soon — XSS, IDOR, XXE, RCE & more.
 

@@ -45,6 +45,15 @@
 - SameSite cookies — Lax vs Strict vs None
 - Step-by-step testing methodology with Burp Suite
 
+### 🟢 VMware Security Guide
+- Kali Linux installation on external disk via VMware
+- Manual partitioning — preserve existing data safely
+- WSL security risks — why it’s NOT a true isolated environment
+- VM network modes — NAT vs Bridged vs Host-only vs No Network
+- Full VM isolation checklist — shared folders, USB, VMware Tools
+- One-click isolation script — lock down your VM instantly
+- 7 Golden Rules every security researcher should follow
+
 ---
 
 ## 🎯 Who Is This For?

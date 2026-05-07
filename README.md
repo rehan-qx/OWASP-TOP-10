@@ -87,3 +87,14 @@
 If you find these guides helpful, please consider giving this repo a **star ⭐** — it helps others find this resource!
 
 [![GitHub stars](https://img.shields.io/github/stars/rehan-qx/OWASP-TOP-10?style=social)](https://github.com/rehan-qx/OWASP-TOP-10)
+
+
+---
+
+### 📢 Stay Updated
+Join our WhatsApp channel for daily cyber updates, vulnerability write-ups, and security news!
+
+👉 **[Join Our WhatsApp Channel](https://whatsapp.com/channel/0029Vb5n1UC7oQhYnrlUBD26)**
+
+---
+*Maintained by **Muhammad Rehan Afzal** | Founder, TeamCyberOps*
